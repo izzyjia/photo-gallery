@@ -1,0 +1,32 @@
+body{
+  font-family:'Cormorant Garamond', serif;
+  background-color:antiquewhite;
+  margin:5em;
+}
+h1{
+  font-size:100px;
+  color: lightcoral;
+  display:flex;
+  justify-content:center;
+}
+p{
+  font-size:20px;
+  color:coral;
+  display:flex;
+  justify-content:center;
+  font-style: oblique;
+}
+img{
+  width:300px;
+  height:300px;
+  padding:2px;
+  border-color:palevioletred;
+  border-style: dotted;
+  border-width:2px;
+  object-fit:cover;
+  margin: 2em;
+}
+section{
+  display:flex;
+  justify-content:center;
+}
